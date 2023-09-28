@@ -26,6 +26,9 @@ Build image and run container:
 
 ```shell
 docker build -t nisum . 
+```
+
+```shell 
 docker run -d -p 8080:8080 --name nisumkalvarez nisum
 ```
 
