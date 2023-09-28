@@ -1,5 +1,7 @@
 # nisum-spring-boot-app
 
+![C4](C4-Component.jpg)
+
 Minimal [Spring Boot](http://projects.spring.io/spring-boot/) nisum app with clean architecture.
 
 ## Requirements
